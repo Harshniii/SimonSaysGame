@@ -1,4 +1,4 @@
-# Simon Says Game 🎮
+## Simon Says Game 🎮
 
 A simple memory-based game where players must repeat a sequence of flashing colors. Each correct attempt adds a new color to the sequence, increasing the difficulty. A wrong move ends the game, displaying the final score. Press any key to restart and try again! 
 
