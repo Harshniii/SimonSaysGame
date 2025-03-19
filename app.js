@@ -58,7 +58,7 @@ function checkAns(idx)
         document.querySelector("body").style.backgroundColor="red";
         setTimeout(function(){
             document.querySelector("body").style.backgroundColor="white";
-        })
+        },150);
         h2.innerHTML=`Game Over! Your score was <b>${level}</b> <br> Press any key to start.`;
         reset();
     }
